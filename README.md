@@ -1,1 +1,1 @@
-# CreditCardDetection
+This project utilizes Machine Learning to identify fraudulent credit card transactions with high accuracy. It analyzes transaction patterns using advanced classification algorithms like Logistic Regression, Random Forest, and Neural Networks to detect anomalies. With real-time fraud analysis and robust data preprocessing, it helps prevent financial losses and enhances payment security
